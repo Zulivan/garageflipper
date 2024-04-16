@@ -24,8 +24,22 @@ Garage Flipper is an open-source project, and we welcome contributions from the 
 
 Ready to simplify your flipping business? Get started with GarageFlipper today! Simply download the latest release from the [Releases section](https://github.com/Zulivan/garageflipper/releases) or clone the repository and build it yourself.
 
-[Download Garage Flipper](https://github.com/Zulivan/garageflipper/releases/download/latest/Garage.Flipper.apk)
+[Download Garage Flipper](https://github.com/Zulivan/garageflipper/releases/download/latest/Garage.Flipper.apk | width=50)
 
 ## License
 
 Garage Flipper is licensed under the MIT License. See the [LICENSE](https://github.com/Zulivan/garageflipper/blob/master/LICENSE) file for details.
+
+## Screenshots
+
+### List of items that are ready to be sold
+
+<img src="https://github.com/Zulivan/garageflipper/blob/master/screenshots/items_bought.jpg?raw=true" alt="A list of all the items bought: Eiffel Tower and Bags with their prices" height="650">
+
+### When declaring a sale
+
+<img src="https://github.com/Zulivan/garageflipper/blob/master/screenshots/confirm_sale.jpg?raw=true" alt="A modal with fields: additional notes, total sell price, amount sold" height="650">
+
+### Sales page: Once one or more items have been sold
+
+<img src="https://github.com/Zulivan/garageflipper/blob/master/screenshots/two_sales_sum.jpg?raw=true" alt="History of sales with a sum of profit for each day" height="650">
