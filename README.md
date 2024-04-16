@@ -1,6 +1,6 @@
 # Garage Flipper
 
-GarageFlipper is a simple yet powerful buy/sell calculator designed to streamline your flipping business. Whether you're flipping items at garage sales, flea markets, or online, GarageFlipper provides an intuitive platform to track your purchases and sales efficiently.
+Garage Flipper is a simple yet powerful buy/sell calculator designed to streamline your flipping business. Whether you're flipping items at garage sales, flea markets, or online, Garage Flipper provides an intuitive platform to track your purchases and sales efficiently.
 
 ## Features:
 
@@ -12,20 +12,20 @@ GarageFlipper is a simple yet powerful buy/sell calculator designed to streamlin
 
 ## How to Contribute?
 
-GarageFlipper is an open-source project, and we welcome contributions from the community. Here are some ways you can contribute:
+Garage Flipper is an open-source project, and we welcome contributions from the community. Here are some ways you can contribute:
 
 - **Feature Requests:** Share your ideas for new features or improvements.
-- **Bug Reports:** Report any bugs or issues you encounter while using GarageFlipper.
-- **Code Contributions:** Help us improve GarageFlipper by contributing code enhancements or fixes.
+- **Bug Reports:** Report any bugs or issues you encounter while using Garage Flipper.
+- **Code Contributions:** Help us improve Garage Flipper by contributing code enhancements or fixes.
 - **Documentation:** Improve the documentation to make it more helpful for users.
-- **Spread the Word:** Share GarageFlipper with others who might find it useful.
+- **Spread the Word:** Share Garage Flipper with others who might find it useful.
 
 ## Get Started
 
-Ready to simplify your flipping business? Get started with GarageFlipper today! Simply download the latest release from the Releases section or clone the repository and build it yourself.
+Ready to simplify your flipping business? Get started with GarageFlipper today! Simply download the latest release from the [Releases section](https://github.com/Zulivan/garageflipper/releases) or clone the repository and build it yourself.
 
-[Download Garage Flipper](https://github.com/Zulivan/garageflipper/blob/master/Garage%20Flipper.apk)
+[Download Garage Flipper](https://github.com/Zulivan/garageflipper/releases/download/latest/Garage.Flipper.apk)
 
 ## License
 
-GarageFlipper is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Garage Flipper is licensed under the MIT License. See the [LICENSE](https://github.com/Zulivan/garageflipper/blob/master/LICENSE) file for details.
